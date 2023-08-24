@@ -1,0 +1,7 @@
+<data>
+<titulo>Base de datos de prueba</titulo>
+<persona DNI="23455" apellidos="Martinez Leon" nombre="Jose Ernesto" telefono="321423" />
+<persona DNI="0000" apellidos="Ortiz" nombre="Paco" telefono="6609888" />
+<persona DNI="22234" apellidos="Perez Lopez" nombre="Daniel" telefono="660866732" />
+<persona DNI="123456789Z" apellidos="Perez" nombre="Pepe" telefono="6543211" />
+<persona DNI="23456789A" apellidos="de prueba" nombre="Pedrito" telefono="2222" /></data>
